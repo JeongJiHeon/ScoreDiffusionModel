@@ -13,7 +13,7 @@
 
 
 
-# Tutorial #2 : MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TtIRgTS2PHhB66Dq2d17fRuaaJKDqxwo/view?usp=sharing) 
+# Tutorial #2 : MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_Sgl9vI7qrukJMY7EakGDpXKZgYWTlV2?usp=sharing) 
 
 <img width="500" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/main/NCSN/figure/ncsn_mnist.gif">
 
