@@ -26,6 +26,6 @@ Score-based generative model과 Diffusion model은 GAN, VAE와 다른 아키텍�
 - Jiheon, Jeong
   - [[GitHub]](https://github.com/JeongJiHeon) [[E-mail]](jeongjiheon.ai@gmail.com) [[LinkedIN]](www.linkedin.com/in/JeongJiHeon)
 - Yujin, Nam 
-  - [[GitHub]](https://github.com/namyouth) [[E-mail]](skadb4513@gmail.com) [[LinkedIN]](www.linkedin.com/in/JeongJiHeon)
+  - [[GitHub]](https://github.com/namyouth) [[E-mail]](skadb4513@gmail.com) [[LinkedIN]](https://www.linkedin.com/in/yujin-nam-0a171a173)
 
 
