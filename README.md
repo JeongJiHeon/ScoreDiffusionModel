@@ -1,5 +1,7 @@
 # Score-based and Diffusion Model
 
+<img src="https://github.com/JeongJiHeon/ScoreDiffusionModel/tree/main/img/mi2rl_logo.png">
+
 
 | Model | Tutorial Code | Blog | Paper | Official Code | Model Type |
 |---|:---:|:---:|:---:|:---:|:---:|
