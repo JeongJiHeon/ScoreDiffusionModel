@@ -1,6 +1,15 @@
-# Score-based and Diffusion Model
 
-<img src="https://github.com/JeongJiHeon/ScoreDiffusionModel/tree/main/img/mi2rl_logo.png">
+<img src="./img/mi2rl.png">
+
+
+## Project of Score-based and Diffusion Model
+### Scratch부터 시작하는 Score-based and Diffusion Model
+
+
+## What is Score-based Diffusion Model?
+Score-based generative model과 Diffusion model은 GAN, VAE와 다른 아키텍쳐의 모델입니다. 
+<img src="./img/ScoreDiffusion.png">
+
 
 
 | Model | Tutorial Code | Blog | Paper | Official Code | Model Type |
@@ -10,3 +19,13 @@
 | Denoising Diffusion Probabilistic Models |  | |[Paper](https://arxiv.org/pdf/2006.11239.pdf) | [GitHub](https://github.com/hojonathanho/diffusion) | Diffusion Model |
 | Improved Denoising Diffusion Probabilistic Models|  | |[Paper](https://arxiv.org/pdf/2102.09672.pdf) | [GitHub](https://github.com/openai/improved-diffusion) | Diffusion Model |
 | Score-based generative model through stochastic differential equation |  | |[Paper](https://arxiv.org/pdf/2011.13456.pdf) | [GitHub](https://github.com/yang-song/score_sde_pytorch) | SDE |
+
+
+## Contributor
+
+- Jiheon, Jeong
+  - [[GitHub]](https://github.com/JeongJiHeon) [[E-mail]](jeongjiheon.ai@gmail.com) [[LinkedIN]](www.linkedin.com/in/JeongJiHeon)
+- Yujin, Nam 
+  - [[GitHub]](https://github.com/namyouth) [[E-mail]](skadb4513@gmail.com) [[LinkedIN]](www.linkedin.com/in/JeongJiHeon)
+
+
