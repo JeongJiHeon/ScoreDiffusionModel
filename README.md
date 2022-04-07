@@ -1,16 +1,20 @@
 
 <img src="./img/mi2rl.png">
+<br>
 
-
-## Project of Score-based and Diffusion Model
-### Scratch부터 시작하는 Score-based and Diffusion Model
-
+## 파이토치로 Scratch부터 시작하는 Score-based & Diffusion Model입니다.
+- NCSN, NCSNv2, DDPM, DDPMv2, VESDE/VPSDE 와 같은 모델의 튜토리얼을 만들어 볼 예정입니다.
+- 코드와 함께 블로그에 글을 정리할 예정입니다. 글과 함께 보시면 더 이해하기 쉬울 것입니다.
+<br>
+<br>
 
 ## What is Score-based Diffusion Model?
-Score-based generative model과 Diffusion model은 GAN, VAE와 다른 아키텍쳐의 모델입니다. 
+<br>
 <img src="./img/ScoreDiffusion.png">
+<br>
 
-
+## Content
+<br>
 
 | Model | Tutorial Code | Blog | Paper | Official Code | Model Type |
 |---|:---:|:---:|:---:|:---:|:---:|
