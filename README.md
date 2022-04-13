@@ -33,7 +33,7 @@
 ## Contributor
 
 - Jiheon, Jeong
-  - [[GitHub]](https://github.com/JeongJiHeon) [[E-mail]](jeongjiheon.ai@gmail.com) [[Linkedin]](www.linkedin.com/in/JeongJiHeon)
+  - [[GitHub]](https://github.com/JeongJiHeon) [[E-mail]](jeongjiheon.ai@gmail.com) [[Linkedin]](https://www.linkedin.com/in/JeongJiHeon)
 - Yujin, Nam 
   - [[GitHub]](https://github.com/namyouth) [[E-mail]](skadb4513@gmail.com) [[Linkedin]](https://www.linkedin.com/in/yujin-nam-0a171a173)
 
