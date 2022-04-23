@@ -8,7 +8,7 @@
 # Tutorial #1 : Toy Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeongJiHeon/ScoreDiffusionModel/blob/main/NCSN/NCSN_example.ipynb) 
 <div>
 
-<img width="300" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/main/DDPM/figure/ddpm_toy.gif">
+<img width="300" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/add-DDPM/DDPM/figure/ddpm_toy.gif">
 <img width="300" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/main/DDPM/figure/ddpm_toy2.gif">
 
 
