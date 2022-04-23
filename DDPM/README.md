@@ -5,7 +5,7 @@
 ### Denoising Diffuison Probabilistic Model
 [[paper]](https://arxiv.org/pdf/2006.11239.pdf) [[official code]](https://github.com/hojonathanho/diffusion)
 
-# Tutorial #1 : Toy Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeongJiHeon/ScoreDiffusionModel/blob/main/NCSN/NCSN_example.ipynb) 
+# Tutorial #1 : Toy Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeongJiHeon/ScoreDiffusionModel/blob/add-DDPM/DDPM/DDPM_example.ipynb) 
 <div>
 
 <img width="300" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/add-DDPM/DDPM/figure/ddpm_toy.gif">
