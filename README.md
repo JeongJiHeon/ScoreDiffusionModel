@@ -28,7 +28,7 @@
 | Denoising Diffusion Probabilistic Models                     | [Link](https://github.com/JeongJiHeon/ScoreDiffusionModel/tree/main/DDPM) | [Link](https://ivdevlog.tistory.com/14) | [Paper](https://arxiv.org/pdf/2006.11239.pdf) |   [GitHub](https://github.com/hojonathanho/diffusion)    |       Diffusion Model        |
 | Improved Denoising Diffusion Probabilistic Models            |                                                              |                                         | [Paper](https://arxiv.org/pdf/2102.09672.pdf) |  [GitHub](https://github.com/openai/improved-diffusion)  |       Diffusion Model        |
 | Score-based generative model through stochastic differential equation |                                                              |                                         | [Paper](https://arxiv.org/pdf/2011.13456.pdf) | [GitHub](https://github.com/yang-song/score_sde_pytorch) |        VESDE / VPSDE         |
-| DENOISING DIFFUSION IMPLICIT MODELS |                                                              |                                         | [Paper](https://arxiv.org/pdf/2010.02502.pdf) | [GitHub](https://github.com/ermongroup/ddim) |        Diffusion Model         |
+| Denoising Diffusion Implicit Models |                                                              |                                         | [Paper](https://arxiv.org/pdf/2010.02502.pdf) | [GitHub](https://github.com/ermongroup/ddim) |        Diffusion Model         |
 
 ## Contributor
 
