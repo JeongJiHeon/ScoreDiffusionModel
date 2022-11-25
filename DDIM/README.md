@@ -10,17 +10,17 @@
 
 <div>
 
-### DDPM generation ( $\tau$=1.0 )
+### DDPM generation ( $\tau=1.0$ )
 <img width="300" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/main/DDIM/figure/DDPM.png">
   
 
 <div>
   
-### DDIM generation ( $\tau$=0.0 )
+### DDIM generation ( $\tau=0.0$ )
   
 <img width="300" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/main/DDIM/figure/first_DDIM.png">
   
-### Reproducibility of DDIM ( $\tau$=0.0 )
+### Reproducibility of DDIM ( $\tau=0.0$ )
 <img width="300" src="https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/main/DDIM/figure/second_DDIM.png">
 
 <div>
