@@ -3,7 +3,7 @@
 <br>
 
 ## 파이토치로 Scratch부터 시작하는 Score-based & Diffusion Model입니다.
-- NCSN, NCSNv2, DDPM, DDPMv2, DDIM, VESDE/VPSDE 와 같은 모델의 튜토리얼을 만들어 볼 예정입니다.
+- NCSN, DDPM, DDIM, VESDE/VPSDE, LDM 와 같은 모델의 튜토리얼을 만들어 볼 예정입니다.
 - 코드와 함께 블로그에 글을 정리할 예정입니다. 글과 함께 보시면 더 이해하기 쉬울 것입니다.
 <br>
 <br>
@@ -31,8 +31,8 @@
 | ------------------------------------------------------------ |  :-------------------------------------: | :-------------------------------------------: | :------------------------------------------------------: | :--------------------------: |
 | Improved Techniques for Training Score-Based Generative Models |                                         | [Paper](https://arxiv.org/pdf/2006.09011.pdf) |      [GitHub](https://github.com/ermongroup/ncsnv2)      | Score-based Generative Model |
 | Improved Denoising Diffusion Probabilistic Models            |                                          | [Paper](https://arxiv.org/pdf/2102.09672.pdf) |  [GitHub](https://github.com/openai/improved-diffusion)  |       Diffusion Model        |
-
-
+| Diffusion Models Beat GANs on Image Synthesis            |                                          | [Paper](https://arxiv.org/pdf/2102.09672.pdf) |  [GitHub](https://github.com/openai/guided-diffusion)  |       Diffusion Model        |
+| CLASSIFIER-FREE DIFFUSION GUIDANCE            |                                          | [Paper](https://arxiv.org/pdf/2207.12598.pdf) |  -  |       Diffusion Model        |
 <br>
 
 ## Contributor
