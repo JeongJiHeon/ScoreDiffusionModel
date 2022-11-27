@@ -29,7 +29,7 @@
 ## Content ( only Blog )
 | Model                                                        |                  Blog                   |                     Paper                     |                      Official Code                       |          Model Type          |
 | ------------------------------------------------------------ |  :-------------------------------------: | :-------------------------------------------: | :------------------------------------------------------: | :--------------------------: |
-| Improved Techniques for Training Score-Based Generative Models |                                         | [Paper](https://arxiv.org/pdf/2006.09011.pdf) |      [GitHub](https://github.com/ermongroup/ncsnv2)      | Score-based Generative Model |
+| Improved Techniques for Training Score-Based Generative Models | [Link](https://ivdevlog.tistory.com/15) | [Paper](https://arxiv.org/pdf/2006.09011.pdf) |      [GitHub](https://github.com/ermongroup/ncsnv2)      | Score-based Generative Model |
 | Improved Denoising Diffusion Probabilistic Models            |                                          | [Paper](https://arxiv.org/pdf/2102.09672.pdf) |  [GitHub](https://github.com/openai/improved-diffusion)  |       Diffusion Model        |
 | Diffusion Models Beat GANs on Image Synthesis            |                                          | [Paper](https://arxiv.org/pdf/2102.09672.pdf) |  [GitHub](https://github.com/openai/guided-diffusion)  |       Diffusion Model        |
 | CLASSIFIER-FREE DIFFUSION GUIDANCE            |                                          | [Paper](https://arxiv.org/pdf/2207.12598.pdf) |  -  |       Diffusion Model        |
