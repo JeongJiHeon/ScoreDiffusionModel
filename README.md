@@ -2,9 +2,9 @@
 <img src="./img/mi2rl.png">
 <br>
 
-## 파이토치로 Scratch부터 시작하는 Score-based & Diffusion Model입니다.
-- NCSN, DDPM, DDIM, VESDE/VPSDE, LDM 와 같은 모델의 튜토리얼을 만들어 볼 예정입니다.
-- 코드와 함께 블로그에 글을 정리할 예정입니다. 글과 함께 보시면 더 이해하기 쉬울 것입니다.
+## Tutorial of Score-based & Diffusion Model from Scratch with PyTorch
+- We are going to make a tutorial on models such as NCSN, DDPM, DDIM, VESDE/VPSDE, and LDM.
+- I'm going to organize my posts(Korean) on the blog with the code. It will be easier to understand if you look at it with the text.
 <br>
 <br>
 
@@ -13,10 +13,8 @@
 <img src="./img/ScoreDiffusion.png" width="80%" height="80%">
 <br>
 
-흔히 Score-based / Diffusion Model이라고 불리는 Diffusion-based Model은 일반적인 GAN과 VAE와 다른 생성모델입니다. 데이터에서 시작하여 Explict한 분포의 랜덤 노이즈로 수렴하는 Process를 정의해서 학습하고, 그 프로세스의 역방향을 이용해 Sampling하는 생성모델입니다. 하지만, Diffusion-based Model에 대한 진입장벽이 꽤 높은 편입니다. 그렇기 때문에 Diffusion-based Model에 대한 간단한 정리과 PyTorch 튜토리얼을 만들어보고자 합니다. 
-<br>
 
-## Content ( Tutorial \& Blog )
+## Content ( Tutorial \& Blog (KR) )
 <br>
 
 | Model                                                        |                        Tutorial Code                         |                  Blog                   |                     Paper                     |                      Official Code                       |          Model Type          |
@@ -26,7 +24,8 @@
 | Denoising Diffusion Implicit Models | [Link](https://github.com/JeongJiHeon/ScoreDiffusionModel/tree/main/DDIM)         || [Paper](https://arxiv.org/pdf/2010.02502.pdf) | [GitHub](https://github.com/ermongroup/ddim) |        Diffusion Model         |
 | Score-based generative model through stochastic differential equation |                                                              |                                         | [Paper](https://arxiv.org/pdf/2011.13456.pdf) | [GitHub](https://github.com/yang-song/score_sde_pytorch) |        VESDE / VPSDE         |
 | Latent Diffusion Models |                                                              |                                         | [Paper](https://arxiv.org/pdf/2112.10752.pdf) | [GitHub](https://github.com/CompVis/latent-diffusion) |        Diffusion + AE       |
-## Content ( only Blog )
+
+## Content ( only Blog (KR) )
 | Model                                                        |                  Blog                   |                     Paper                     |                      Official Code                       |          Model Type          |
 | ------------------------------------------------------------ |  :-------------------------------------: | :-------------------------------------------: | :------------------------------------------------------: | :--------------------------: |
 | Improved Techniques for Training Score-Based Generative Models | [Link](https://ivdevlog.tistory.com/15) | [Paper](https://arxiv.org/pdf/2006.09011.pdf) |      [GitHub](https://github.com/ermongroup/ncsnv2)      | Score-based Generative Model |
