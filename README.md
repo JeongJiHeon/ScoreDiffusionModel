@@ -1,6 +1,4 @@
 
-<img src="./img/mi2rl.png">
-<br>
 
 ## Tutorial of Score-based & Diffusion Model from Scratch with PyTorch
 - We are going to make a tutorial on models such as NCSN, DDPM, DDIM, VESDE/VPSDE, and LDM.
